@@ -1,0 +1,160 @@
+
+{
+
+    "status": "ok",
+    "totalResults": 10,
+      
+    "articles": [
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "UK bees in danger as Asian hornet sightings rise",
+            "description": "The invasive insect threatens to get a foothold, with nests found in East Sussex, Kent, Devon and Dorset.",
+            "url": "http://www.bbc.co.uk/news/science  environment  66697968",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D6EA/production/_130981055_asian_hornet  c0575426  spl.jpg",
+            "publishedAt": "2023  09  04T13:22:22.4925497Z",
+            "content": "Media caption, Asian hornet attacks wasp in Kent\r\nRecord sightings of Asian hornets are raising fears of catastrophic consequences for the UK's bee populations for years to come.\r\nThe invasive hornet… [+4778 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Chandrayaan  3: Isro puts India's Moon lander and rover in 'sleep mode'",
+            "description": "It is hoped the Vikram lander and Pragyaan rover will reawaken when the next lunar day starts.",
+            "url": "http://www.bbc.co.uk/news/world  asia  india  66704451",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82AD/production/_130935433_f4w2vdsbcaasl8l.jpg",
+            "publishedAt": "2023  09  04T11:22:23.8829151Z",
+            "content": "India's lunar lander and rover have been put to bed as the Sun begins to set on the Moon, the country's space research agency Isro has said.\r\nThey have been put in \"sleep mode\" and \"will fall asleep … [+3938 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Barbie overtakes Super Mario Bros to be 2023's biggest box office hit",
+            "description": "Margot Robbie's hit movie becomes the year's most successful film at box offices around the world.",
+            "url": "http://www.bbc.co.uk/news/entertainment  arts  66705597",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14DEA/production/_130528458_f16bkiaaiaaq5zc.jpg",
+            "publishedAt": "2023  09  04T10:37:21.7898144Z",
+            "content": "Barbie has officially become the year's biggest box office hit, after the doll's big  screen earnings overtook the Super Mario Bros Movie's total.\r\nThe Barbie movie, which sees Margot Robbie's titular… [+1584 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Gabon coup leader Brice Nguema being sworn in as president",
+            "description": "General Brice Nguema, who toppled long  time leader Ali Bongo, officially becomes Gabon's interim leader.",
+            "url": "http://www.bbc.co.uk/news/world  africa  66705693",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11765/production/_130952517_gettyimages  1636758896.jpg",
+            "publishedAt": "2023  09  04T10:07:16.8048877Z",
+            "content": "Brice Nguema, the leader of Gabon's military junta, is being sworn in as the nation's interim president.\r\nGeneral Nguema led last Wednesday's coup against Ali Bongo, toppling the president shortly af… [+1051 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Teacher suicide exposes parent bullying in S Korea",
+            "description": "Tens of thousands of school teachers went on strike on Monday demanding better protection at work.",
+            "url": "http://www.bbc.co.uk/news/world  asia  66655572",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CFA2/production/_130945135_teacherjin  seo.jpg",
+            "publishedAt": "2023  09  04T08:22:18.2574539Z",
+            "content": "On 5 June, Lee Min  so* described in her diary the fear that overtook her body as she entered her classroom to teach: \"My chest feels too tight. I feel like I'm going to fall somewhere. I don't even k… [+8543 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Burning Man: Revellers begin to leave as boggy conditions improve",
+            "description": "Revellers are able to leave the desert festival after heavy rain made the ground too muddy to drive on.",
+            "url": "http://www.bbc.co.uk/news/world  us  canada  66704749",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32BB/production/_130978921_gettyimages  1643706950.jpg",
+            "publishedAt": "2023  09  04T08:22:15.3675486Z",
+            "content": "Weather conditions at the Burning Man festival in the US have eased enough to allow revellers to start leaving.\r\nHeavy rain had turned the event, held in a desert in Nevada, into a mud bath.\r\nThe gro… [+3202 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Moon base: Bangor scientists design fuel to live in space",
+            "description": "An energy source which could sustain life on the Moon for long periods has been designed by researchers.",
+            "url": "http://www.bbc.co.uk/news/uk  wales  66687056",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1352B/production/_130974197_mediaitem130974164.jpg",
+            "publishedAt": "2023  09  04T07:52:15.429624Z",
+            "content": "Scientists have developed an energy source which could allow astronauts to live on the Moon for long periods of time.\r\nThe Nasa  led Artemis Program hopes for an outpost on the Moon by around 2030.\r\nB… [+4838 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Biden disappointed Xi will not attend G20 summit",
+            "description": "The two leaders last met on the side  lines of last year's summit in Bali, Indonesia.",
+            "url": "http://www.bbc.co.uk/news/world  asia  china  66704059",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7D57/production/_130978023_6a2c73f98f8301c4f1a8b900f94957b0cd06f6340_0_5500_36671000x667.jpg",
+            "publishedAt": "2023  09  04T02:37:13.1859987Z",
+            "content": "US President Joe Biden has said he is \"disappointed\" that his Chinese counterpart Xi Jinping plans to skip the upcoming G20 summit in India.\r\nChinese Premier Li Qiang is expected to represent Beijing… [+2355 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine's defence minister Oleksii Reznikov dismissed",
+            "description": "Ukraine's President Volodymyr Zelensky dismissed Oleksii Reznikov, saying \"new approaches\" were needed.",
+            "url": "http://www.bbc.co.uk/news/world  europe  66702893",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3761/production/_130977141_50522a74d4eeedce8b6d19a49a3c914a275386b20_0_3188_21211000x665.jpg",
+            "publishedAt": "2023  09  03T20:22:16.4520679Z",
+            "content": "Ukraine's defence minister Oleksii Reznikov has been dismissed from his post, the country's leader Volodymyr Zelensky has announced.\r\nMr Reznikov had led the ministry since before the start of Russia… [+465 chars]"
+        },
+          
+        {
+              
+            "source": {
+                "id": "bbc  news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Paul McCartney: Global search for missing Beatles' 1961 Höfner guitar",
+            "description": "The famous instrument featured in some of The Beatles biggest hits, but disappeared in 1969.",
+            "url": "http://www.bbc.co.uk/news/entertainment  arts  66700300",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8045/production/_130973823_gettyimages  98591035.jpg",
+            "publishedAt": "2023  09  03T09:07:16.7329895Z",
+            "content": "A global search has been launched to find one of the world's most iconic instruments  Paul McCartney's original Höfner bass guitar.\r\nThe Lost Bass Project is appealing for information about what it … [+995 chars]"
+        }
+    ]
+
+}
